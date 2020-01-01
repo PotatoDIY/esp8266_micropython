@@ -1,5 +1,7 @@
 # 为esp8266安装micropython
 
+![](./ESP01-Pin-Diagram.png)
+
 ## 安装烧录工具
 
 ```
